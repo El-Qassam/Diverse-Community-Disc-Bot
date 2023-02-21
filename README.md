@@ -16,4 +16,4 @@ A simple discord server that should answer easy commands and give a nice welcomi
 - Answer complex queries.
 - Add a simple mini-game.
 - AI chatbot
-- 
+- simplify and cleanup code.
